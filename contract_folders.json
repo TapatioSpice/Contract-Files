@@ -1,0 +1,345 @@
+{
+ "_readme": "Where each app community's contract PDFs live in the shared OneDrive CONTRACTS folder. Key = 'Builder|Community' exactly as in the app. 'path' is shown as a breadcrumb; add an optional 'url' (a SharePoint share link to that exact folder) to make the button open the folder directly.",
+ "shared_folder_url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBa5H5bojr_RbSnca96B7jBAUpkCrpcHsdISsNM7eXFoyU?e=JWc08Z",
+ "folders": {
+  "Pulte|Aries": {
+   "path": "PRODUCTION/Pulte Homes"
+  },
+  "Pulte|Aries - DW": {
+   "path": "PRODUCTION/Pulte Homes"
+  },
+  "Pulte|Brantley J": {
+   "path": "PRODUCTION/Pulte Homes"
+  },
+  "Pulte|Brantley KL": {
+   "path": "PRODUCTION/Pulte Homes"
+  },
+  "Pulte|Caprock": {
+   "path": "PRODUCTION/Pulte Homes/Ascension - Caprock 5500"
+  },
+  "Pulte|Cordora @ El Capitan": {
+   "path": "PRODUCTION/Pulte Homes/Cordora at El Capitan - 2600"
+  },
+  "Pulte|Cordora @ Mesa Vista": {
+   "path": "PRODUCTION/Pulte Homes/Cordora at Mesa Vista -2600"
+  },
+  "Pulte|Cordora @ Pioneer": {
+   "path": "PRODUCTION/Pulte Homes/Cordora at Pioneer - 2600"
+  },
+  "Pulte|Dalylight@WarmSpring": {
+   "path": "PRODUCTION/Pulte Homes/Daylight at Warm Springs - 5000"
+  },
+  "Pulte|Daylight @ Arville": {
+   "path": "PRODUCTION/Pulte Homes/Daylight at Arville 50-70"
+  },
+  "Pulte|Daylight @ Hinson": {
+   "path": "PRODUCTION/Pulte Homes/Daylight at Hinson 50-70"
+  },
+  "Pulte|Daylight @ Schuster": {
+   "path": "PRODUCTION/Pulte Homes/Daylight at Schuster 50-70"
+  },
+  "Pulte|Daylight Landberg": {
+   "path": "PRODUCTION/Pulte Homes/Daylight at Landberg - 5000"
+  },
+  "Pulte|Daylight Oquendo": {
+   "path": "PRODUCTION/Pulte Homes/Daylight at Oquendo 50-70"
+  },
+  "Pulte|Delamar": {
+   "path": "PRODUCTION/Pulte Homes/Delamar (7538)"
+  },
+  "Pulte|Delamar@Polaris": {
+   "path": "PRODUCTION/Pulte Homes/Delamar at Polaris"
+  },
+  "Pulte|Evercrest at Ironstone": {
+   "path": "PRODUCTION/Pulte Homes"
+  },
+  "Pulte|Glass Canyon": {
+   "path": "PRODUCTION/Pulte Homes/Glass Canyon - 5500"
+  },
+  "Pulte|Hayford": {
+   "path": "PRODUCTION/Pulte Homes/Hayford Collection (7438)"
+  },
+  "Pulte|Hayford@Polaris": {
+   "path": "PRODUCTION/Pulte Homes/Hayford at Polaris - 4500"
+  },
+  "Pulte|Lake.Las.Vegas": {
+   "path": "PRODUCTION/Pulte Homes"
+  },
+  "Pulte|Luxury @ El Capitan": {
+   "path": "PRODUCTION/Pulte Homes/Luxury at El Capitan - 2600 (9226)"
+  },
+  "Pulte|Paldona @ Pioneer": {
+   "path": "PRODUCTION/Pulte Homes/Paldona at Pioneer - 3000"
+  },
+  "Pulte|Paldona@Buffalo": {
+   "path": "PRODUCTION/Pulte Homes/Paldona at Buffalo"
+  },
+  "Pulte|Paldona@Cimarron": {
+   "path": "PRODUCTION/Pulte Homes/Paldona at Cimarron"
+  },
+  "Pulte|Quinn.Canyon": {
+   "path": "PRODUCTION/Pulte Homes/Quinn Canyon"
+  },
+  "Pulte|RC.Luxury": {
+   "path": "PRODUCTION/Pulte Homes/Rainbow Crossing Luxury"
+  },
+  "Pulte|Tenaya Springs @ Landberg": {
+   "path": "PRODUCTION/Pulte Homes/Tenaya Spring @ Landberg - 2500"
+  },
+  "Pulte|Tenaya Springs @ Landberg - Concrete": {
+   "path": "CONCRETE/Pulte Homes/Tenaya Spring @ Landberg - 2500"
+  },
+  "Pulte|Tenaya Springs @ Lone Mesa": {
+   "path": "PRODUCTION/Pulte Homes/Tenaya Spring @ Lone Mesa 2500"
+  },
+  "Pulte|Tenaya Springs @ Lone Mesa - Concrete": {
+   "path": "CONCRETE/Pulte Homes/Tenaya Spring @ Lone Mesa 2500"
+  },
+  "Pulte|Tenaya Springs @ Patrick": {
+   "path": "PRODUCTION/Pulte Homes/Tenaya Spring @ Patrick - 2500"
+  },
+  "Pulte|Tenaya Springs @ Patrick - Concrete": {
+   "path": "CONCRETE/Pulte Homes/Tenaya Spring @ Patrick - 2500"
+  },
+  "Pulte|Tenaya.Springs": {
+   "path": "PRODUCTION/Pulte Homes"
+  },
+  "Pulte|The.Pointe": {
+   "path": "PRODUCTION/Pulte Homes/Ascension - The Pointe"
+  },
+  "Pulte|Wesley.Park": {
+   "path": "PRODUCTION/Pulte Homes/Wesley Park Waverly Collection"
+  },
+  "Pulte|Westlight": {
+   "path": "PRODUCTION/Pulte Homes/Westlight"
+  },
+  "Woodside|Acacia - Concrete": {
+   "path": "CONCRETE/Woodside Homes/Acacia at Cadence"
+  },
+  "Woodside|Adair": {
+   "path": "PRODUCTION/Woodside Homes/Adair"
+  },
+  "Woodside|Adair - Concrete": {
+   "path": "CONCRETE/Woodside Homes/Adair"
+  },
+  "Woodside|Ambridge": {
+   "path": "PRODUCTION/Woodside Homes/Ambridge at Cadence"
+  },
+  "Woodside|Ambridge - Concrete": {
+   "path": "CONCRETE/Woodside Homes/Ambridge at Cadence"
+  },
+  "Woodside|Arcadia": {
+   "path": "PRODUCTION/Woodside Homes/Shawood at Arcadia"
+  },
+  "Woodside|Arcadia - Concrete": {
+   "path": "CONCRETE/Woodside Homes/Arcadia"
+  },
+  "Woodside|Ashwood": {
+   "path": "PRODUCTION/Woodside Homes/Ashwood"
+  },
+  "Woodside|Ashwood - Concrete": {
+   "path": "CONCRETE/Woodside Homes/Ashwood"
+  },
+  "Woodside|Dove Rock": {
+   "path": "PRODUCTION/Woodside Homes/Dove Rock"
+  },
+  "Woodside|Dove Rock - Concrete": {
+   "path": "CONCRETE/Woodside Homes/Dove Rock"
+  },
+  "Woodside|Estrella at Sunstone": {
+   "path": "PRODUCTION/Woodside Homes/Estrella at Sunstone"
+  },
+  "Woodside|Luna at Sunstone": {
+   "path": "PRODUCTION/Woodside Homes/Luna at Sunstone"
+  },
+  "Woodside|Meridian - Concrete": {
+   "path": "CONCRETE/Woodside Homes/Meridian at Cadence"
+  },
+  "Woodside|Orchards": {
+   "path": "PRODUCTION/Woodside Homes/Shawood at the Orchards"
+  },
+  "Woodside|Orchards - Concrete": {
+   "path": "CONCRETE/Woodside Homes/Shawood at the Orchards"
+  },
+  "Woodside|Serenata": {
+   "path": "PRODUCTION/Woodside Homes/Serenata"
+  },
+  "Woodside|Serenata - Concrete": {
+   "path": "CONCRETE/Woodside Homes/Serenata"
+  },
+  "Richmond|Amalfi at Mountain Falls": {
+   "path": "PRODUCTION/Taylor Morrison/Amalfi at Mountain Falls"
+  },
+  "Richmond|Arabella (ATP II - RV)": {
+   "path": "PRODUCTION/Richmond Homes/Arabella"
+  },
+  "Richmond|Arborbrook / Stonehaven": {
+   "path": "PRODUCTION/Richmond Homes"
+  },
+  "Richmond|Archer Park (Buf & Gomer)": {
+   "path": "PRODUCTION/Richmond Homes/Archer Park"
+  },
+  "Richmond|Camden": {
+   "path": "PRODUCTION/Richmond Homes/Camden I & II"
+  },
+  "Richmond|Camden II": {
+   "path": "PRODUCTION/Richmond Homes/Camden I & II"
+  },
+  "Richmond|Cashmere Meadows": {
+   "path": "PRODUCTION/Richmond Homes"
+  },
+  "Richmond|Interlude at Cadence": {
+   "path": "PRODUCTION/Richmond Homes/Interlude"
+  },
+  "Richmond|Primrose Park (Parcel J)": {
+   "path": "PRODUCTION/Richmond Homes/Primrose Park"
+  },
+  "Richmond|Teton Terrace (Buf&Tet R)": {
+   "path": "PRODUCTION/Richmond Homes/Teton Terrace"
+  },
+  "Taylor Morrison|Ashland - Concrete": {
+   "path": "CONCRETE/Taylor Morrison/Ashland 60 Series"
+  },
+  "Taylor Morrison|Esplanade 35s": {
+   "path": "PRODUCTION/Taylor Morrison/Esplanade 35s"
+  },
+  "Taylor Morrison|Esplanade 45s": {
+   "path": "PRODUCTION/Taylor Morrison/Esplanade 45s"
+  },
+  "Taylor Morrison|Esplanade 45s - Concrete": {
+   "path": "CONCRETE/Taylor Morrison/Esplanade 45s"
+  },
+  "Taylor Morrison|Esplanade 55s": {
+   "path": "PRODUCTION/Taylor Morrison/Esplanade 55s"
+  },
+  "Taylor Morrison|Esplanade Duplex": {
+   "path": "PRODUCTION/Taylor Morrison/Esplanade Duplex"
+  },
+  "Taylor Morrison|Esplanade Duplex - Concrete": {
+   "path": "CONCRETE/Taylor Morrison/Esplanade Duplex"
+  },
+  "Taylor Morrison|LLV Portofino 40s": {
+   "path": "PRODUCTION/Taylor Morrison/Portofino"
+  },
+  "Taylor Morrison|LLV Portofino 50s": {
+   "path": "PRODUCTION/Taylor Morrison/Portofino"
+  },
+  "Taylor Morrison|LLV Portofino 60s": {
+   "path": "PRODUCTION/Taylor Morrison/Portofino"
+  },
+  "Taylor Morrison|LLV Verona - Concrete": {
+   "path": "CONCRETE/Taylor Morrison/Verona at Lake Las Vegas"
+  },
+  "Taylor Morrison|MFLLC 40s (Mountain Falls)": {
+   "path": "PRODUCTION/Taylor Morrison/Mtn Falls 40s (Vivere)"
+  },
+  "Taylor Morrison|Opus at Cadence 25s - Concrete": {
+   "path": "CONCRETE/Taylor Morrison/Opus"
+  },
+  "Taylor Morrison|Opus at Cadence 30s - Concrete": {
+   "path": "CONCRETE/Taylor Morrison/Opus"
+  },
+  "Taylor Morrison|SL Lark Hill - Concrete": {
+   "path": "CONCRETE/Taylor Morrison/Lark Hill"
+  },
+  "Century Communities|Alderidge THs - Concrete": {
+   "path": "CONCRETE/Century Communities/Alderidge"
+  },
+  "Century Communities|Bravado - Concrete": {
+   "path": "CONCRETE/Century Communities/Bravado"
+  },
+  "Century Communities|Ishani Ridge (Century Complete)": {
+   "path": "PRODUCTION/Century Complete/Ishani Ridge"
+  },
+  "Century Communities|Modena I - Concrete": {
+   "path": "CONCRETE/Century Communities/Modena I"
+  },
+  "Century Communities|Modena II - Concrete": {
+   "path": "CONCRETE/Century Communities/Modena II"
+  },
+  "Century Communities|Skyeview - Arroyo - Concrete": {
+   "path": "CONCRETE/Century Communities/Skyeview - Arroyo"
+  },
+  "Century Communities|Skyeview - Mesa": {
+   "path": "PRODUCTION/Century Communities/Skyeview - Mesa"
+  },
+  "Century Communities|Skyeview - Mesa - Concrete": {
+   "path": "CONCRETE/Century Communities/Skyeview - Mesa"
+  },
+  "Century Communities|Skyeview - Sierra - Concrete": {
+   "path": "CONCRETE/Century Communities/Skyeview - Sierra"
+  },
+  "Century Communities|Skyeview - Terra": {
+   "path": "PRODUCTION/Century Communities/Skyeview - Terra"
+  },
+  "Century Communities|Skyeview - Terra - Concrete": {
+   "path": "CONCRETE/Century Communities/Skyeview - Terra"
+  },
+  "Century Communities|Southwind": {
+   "path": "PRODUCTION/Century Communities/Southwind"
+  },
+  "Century Communities|Southwind - Concrete": {
+   "path": "CONCRETE/Century Communities/Southwind"
+  },
+  "Century Communities|The Bluffs I - Concrete": {
+   "path": "CONCRETE/Century Communities/The Bluffs I"
+  },
+  "Century Communities|The Bluffs II - Concrete": {
+   "path": "CONCRETE/Century Communities/The Bluffs II"
+  },
+  "Century Communities|Union Village": {
+   "path": "PRODUCTION/Century Communities/Union Village"
+  },
+  "Century Communities|Union Village - Concrete": {
+   "path": "CONCRETE/Century Communities/Union Village"
+  },
+  "KB Homes|Alton 25s - Concrete": {
+   "path": "CONCRETE/KB Home/Alton 25s"
+  },
+  "KB Homes|Alton 35s - Concrete": {
+   "path": "CONCRETE/KB Home/Alton 35s"
+  },
+  "KB Homes|Brevi - Concrete": {
+   "path": "CONCRETE/KB Home/Brevi"
+  },
+  "Tri Pointe of Nevada|Agave Ridge - Concrete": {
+   "path": "CONCRETE/Tri Pointe of Nevada/Agave Ridge"
+  },
+  "Tri Pointe of Nevada|Edgewood": {
+   "path": "PRODUCTION/Tri Pointe of Nevada/Edgewood"
+  },
+  "Tri Pointe of Nevada|Edgewood - Concrete": {
+   "path": "CONCRETE/Tri Pointe of Nevada/Edgewood"
+  },
+  "Other Builders|AMH - Catalina Canyon": {
+   "path": "PRODUCTION/AMH Development/Catalina Canyon"
+  },
+  "Other Builders|AMH - Sapphire Acres": {
+   "path": "PRODUCTION/AMH Development/Sapphire Acres"
+  },
+  "Other Builders|AMH - Sapphire Acres - Concrete": {
+   "path": "CONCRETE/AMH Development/Sapphire Acres"
+  },
+  "Other Builders|Blue Heron - Velaris": {
+   "path": "PRODUCTION/Blue Heron/Velaris"
+  },
+  "Other Builders|Pinnacle - Manitou / Keystone / Powderhorn": {
+   "path": "PRODUCTION/Pinnacle Homes"
+  },
+  "Pergolas|KB - Aven Landings": {
+   "path": "PRODUCTION/KB Home/Aven Landings"
+  },
+  "Pergolas|KB - Aven Reserves": {
+   "path": "PRODUCTION/KB Home/Aven Reserves"
+  },
+  "Pergolas|KB - Brevi": {
+   "path": "PRODUCTION/KB Home/Brevi"
+  },
+  "Pergolas|Century - Bravado": {
+   "path": "CONCRETE/Century Communities/Bravado"
+  },
+  "Pergolas|Century - Southwind": {
+   "path": "PRODUCTION/Century Communities/Southwind"
+  }
+ }
+}
