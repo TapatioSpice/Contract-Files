@@ -1,345 +1,458 @@
 {
- "_readme": "Where each app community's contract PDFs live in the shared OneDrive CONTRACTS folder. Key = 'Builder|Community' exactly as in the app. 'path' is shown as a breadcrumb; add an optional 'url' (a SharePoint share link to that exact folder) to make the button open the folder directly.",
- "shared_folder_url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBa5H5bojr_RbSnca96B7jBAUpkCrpcHsdISsNM7eXFoyU?e=JWc08Z",
- "folders": {
-  "Pulte|Aries": {
-   "path": "PRODUCTION/Pulte Homes"
-  },
-  "Pulte|Aries - DW": {
-   "path": "PRODUCTION/Pulte Homes"
-  },
-  "Pulte|Brantley J": {
-   "path": "PRODUCTION/Pulte Homes"
-  },
-  "Pulte|Brantley KL": {
-   "path": "PRODUCTION/Pulte Homes"
-  },
-  "Pulte|Caprock": {
-   "path": "PRODUCTION/Pulte Homes/Ascension - Caprock 5500"
-  },
-  "Pulte|Cordora @ El Capitan": {
-   "path": "PRODUCTION/Pulte Homes/Cordora at El Capitan - 2600"
-  },
-  "Pulte|Cordora @ Mesa Vista": {
-   "path": "PRODUCTION/Pulte Homes/Cordora at Mesa Vista -2600"
-  },
-  "Pulte|Cordora @ Pioneer": {
-   "path": "PRODUCTION/Pulte Homes/Cordora at Pioneer - 2600"
-  },
-  "Pulte|Dalylight@WarmSpring": {
-   "path": "PRODUCTION/Pulte Homes/Daylight at Warm Springs - 5000"
-  },
-  "Pulte|Daylight @ Arville": {
-   "path": "PRODUCTION/Pulte Homes/Daylight at Arville 50-70"
-  },
-  "Pulte|Daylight @ Hinson": {
-   "path": "PRODUCTION/Pulte Homes/Daylight at Hinson 50-70"
-  },
-  "Pulte|Daylight @ Schuster": {
-   "path": "PRODUCTION/Pulte Homes/Daylight at Schuster 50-70"
-  },
-  "Pulte|Daylight Landberg": {
-   "path": "PRODUCTION/Pulte Homes/Daylight at Landberg - 5000"
-  },
-  "Pulte|Daylight Oquendo": {
-   "path": "PRODUCTION/Pulte Homes/Daylight at Oquendo 50-70"
-  },
-  "Pulte|Delamar": {
-   "path": "PRODUCTION/Pulte Homes/Delamar (7538)"
-  },
-  "Pulte|Delamar@Polaris": {
-   "path": "PRODUCTION/Pulte Homes/Delamar at Polaris"
-  },
-  "Pulte|Evercrest at Ironstone": {
-   "path": "PRODUCTION/Pulte Homes"
-  },
-  "Pulte|Glass Canyon": {
-   "path": "PRODUCTION/Pulte Homes/Glass Canyon - 5500"
-  },
-  "Pulte|Hayford": {
-   "path": "PRODUCTION/Pulte Homes/Hayford Collection (7438)"
-  },
-  "Pulte|Hayford@Polaris": {
-   "path": "PRODUCTION/Pulte Homes/Hayford at Polaris - 4500"
-  },
-  "Pulte|Lake.Las.Vegas": {
-   "path": "PRODUCTION/Pulte Homes"
-  },
-  "Pulte|Luxury @ El Capitan": {
-   "path": "PRODUCTION/Pulte Homes/Luxury at El Capitan - 2600 (9226)"
-  },
-  "Pulte|Paldona @ Pioneer": {
-   "path": "PRODUCTION/Pulte Homes/Paldona at Pioneer - 3000"
-  },
-  "Pulte|Paldona@Buffalo": {
-   "path": "PRODUCTION/Pulte Homes/Paldona at Buffalo"
-  },
-  "Pulte|Paldona@Cimarron": {
-   "path": "PRODUCTION/Pulte Homes/Paldona at Cimarron"
-  },
-  "Pulte|Quinn.Canyon": {
-   "path": "PRODUCTION/Pulte Homes/Quinn Canyon"
-  },
-  "Pulte|RC.Luxury": {
-   "path": "PRODUCTION/Pulte Homes/Rainbow Crossing Luxury"
-  },
-  "Pulte|Tenaya Springs @ Landberg": {
-   "path": "PRODUCTION/Pulte Homes/Tenaya Spring @ Landberg - 2500"
-  },
-  "Pulte|Tenaya Springs @ Landberg - Concrete": {
-   "path": "CONCRETE/Pulte Homes/Tenaya Spring @ Landberg - 2500"
-  },
-  "Pulte|Tenaya Springs @ Lone Mesa": {
-   "path": "PRODUCTION/Pulte Homes/Tenaya Spring @ Lone Mesa 2500"
-  },
-  "Pulte|Tenaya Springs @ Lone Mesa - Concrete": {
-   "path": "CONCRETE/Pulte Homes/Tenaya Spring @ Lone Mesa 2500"
-  },
-  "Pulte|Tenaya Springs @ Patrick": {
-   "path": "PRODUCTION/Pulte Homes/Tenaya Spring @ Patrick - 2500"
-  },
-  "Pulte|Tenaya Springs @ Patrick - Concrete": {
-   "path": "CONCRETE/Pulte Homes/Tenaya Spring @ Patrick - 2500"
-  },
-  "Pulte|Tenaya.Springs": {
-   "path": "PRODUCTION/Pulte Homes"
-  },
-  "Pulte|The.Pointe": {
-   "path": "PRODUCTION/Pulte Homes/Ascension - The Pointe"
-  },
-  "Pulte|Wesley.Park": {
-   "path": "PRODUCTION/Pulte Homes/Wesley Park Waverly Collection"
-  },
-  "Pulte|Westlight": {
-   "path": "PRODUCTION/Pulte Homes/Westlight"
-  },
-  "Woodside|Acacia - Concrete": {
-   "path": "CONCRETE/Woodside Homes/Acacia at Cadence"
-  },
-  "Woodside|Adair": {
-   "path": "PRODUCTION/Woodside Homes/Adair"
-  },
-  "Woodside|Adair - Concrete": {
-   "path": "CONCRETE/Woodside Homes/Adair"
-  },
-  "Woodside|Ambridge": {
-   "path": "PRODUCTION/Woodside Homes/Ambridge at Cadence"
-  },
-  "Woodside|Ambridge - Concrete": {
-   "path": "CONCRETE/Woodside Homes/Ambridge at Cadence"
-  },
-  "Woodside|Arcadia": {
-   "path": "PRODUCTION/Woodside Homes/Shawood at Arcadia"
-  },
-  "Woodside|Arcadia - Concrete": {
-   "path": "CONCRETE/Woodside Homes/Arcadia"
-  },
-  "Woodside|Ashwood": {
-   "path": "PRODUCTION/Woodside Homes/Ashwood"
-  },
-  "Woodside|Ashwood - Concrete": {
-   "path": "CONCRETE/Woodside Homes/Ashwood"
-  },
-  "Woodside|Dove Rock": {
-   "path": "PRODUCTION/Woodside Homes/Dove Rock"
-  },
-  "Woodside|Dove Rock - Concrete": {
-   "path": "CONCRETE/Woodside Homes/Dove Rock"
-  },
-  "Woodside|Estrella at Sunstone": {
-   "path": "PRODUCTION/Woodside Homes/Estrella at Sunstone"
-  },
-  "Woodside|Luna at Sunstone": {
-   "path": "PRODUCTION/Woodside Homes/Luna at Sunstone"
-  },
-  "Woodside|Meridian - Concrete": {
-   "path": "CONCRETE/Woodside Homes/Meridian at Cadence"
-  },
-  "Woodside|Orchards": {
-   "path": "PRODUCTION/Woodside Homes/Shawood at the Orchards"
-  },
-  "Woodside|Orchards - Concrete": {
-   "path": "CONCRETE/Woodside Homes/Shawood at the Orchards"
-  },
-  "Woodside|Serenata": {
-   "path": "PRODUCTION/Woodside Homes/Serenata"
-  },
-  "Woodside|Serenata - Concrete": {
-   "path": "CONCRETE/Woodside Homes/Serenata"
-  },
-  "Richmond|Amalfi at Mountain Falls": {
-   "path": "PRODUCTION/Taylor Morrison/Amalfi at Mountain Falls"
-  },
-  "Richmond|Arabella (ATP II - RV)": {
-   "path": "PRODUCTION/Richmond Homes/Arabella"
-  },
-  "Richmond|Arborbrook / Stonehaven": {
-   "path": "PRODUCTION/Richmond Homes"
-  },
-  "Richmond|Archer Park (Buf & Gomer)": {
-   "path": "PRODUCTION/Richmond Homes/Archer Park"
-  },
-  "Richmond|Camden": {
-   "path": "PRODUCTION/Richmond Homes/Camden I & II"
-  },
-  "Richmond|Camden II": {
-   "path": "PRODUCTION/Richmond Homes/Camden I & II"
-  },
-  "Richmond|Cashmere Meadows": {
-   "path": "PRODUCTION/Richmond Homes"
-  },
-  "Richmond|Interlude at Cadence": {
-   "path": "PRODUCTION/Richmond Homes/Interlude"
-  },
-  "Richmond|Primrose Park (Parcel J)": {
-   "path": "PRODUCTION/Richmond Homes/Primrose Park"
-  },
-  "Richmond|Teton Terrace (Buf&Tet R)": {
-   "path": "PRODUCTION/Richmond Homes/Teton Terrace"
-  },
-  "Taylor Morrison|Ashland - Concrete": {
-   "path": "CONCRETE/Taylor Morrison/Ashland 60 Series"
-  },
-  "Taylor Morrison|Esplanade 35s": {
-   "path": "PRODUCTION/Taylor Morrison/Esplanade 35s"
-  },
-  "Taylor Morrison|Esplanade 45s": {
-   "path": "PRODUCTION/Taylor Morrison/Esplanade 45s"
-  },
-  "Taylor Morrison|Esplanade 45s - Concrete": {
-   "path": "CONCRETE/Taylor Morrison/Esplanade 45s"
-  },
-  "Taylor Morrison|Esplanade 55s": {
-   "path": "PRODUCTION/Taylor Morrison/Esplanade 55s"
-  },
-  "Taylor Morrison|Esplanade Duplex": {
-   "path": "PRODUCTION/Taylor Morrison/Esplanade Duplex"
-  },
-  "Taylor Morrison|Esplanade Duplex - Concrete": {
-   "path": "CONCRETE/Taylor Morrison/Esplanade Duplex"
-  },
-  "Taylor Morrison|LLV Portofino 40s": {
-   "path": "PRODUCTION/Taylor Morrison/Portofino"
-  },
-  "Taylor Morrison|LLV Portofino 50s": {
-   "path": "PRODUCTION/Taylor Morrison/Portofino"
-  },
-  "Taylor Morrison|LLV Portofino 60s": {
-   "path": "PRODUCTION/Taylor Morrison/Portofino"
-  },
-  "Taylor Morrison|LLV Verona - Concrete": {
-   "path": "CONCRETE/Taylor Morrison/Verona at Lake Las Vegas"
-  },
-  "Taylor Morrison|MFLLC 40s (Mountain Falls)": {
-   "path": "PRODUCTION/Taylor Morrison/Mtn Falls 40s (Vivere)"
-  },
-  "Taylor Morrison|Opus at Cadence 25s - Concrete": {
-   "path": "CONCRETE/Taylor Morrison/Opus"
-  },
-  "Taylor Morrison|Opus at Cadence 30s - Concrete": {
-   "path": "CONCRETE/Taylor Morrison/Opus"
-  },
-  "Taylor Morrison|SL Lark Hill - Concrete": {
-   "path": "CONCRETE/Taylor Morrison/Lark Hill"
-  },
-  "Century Communities|Alderidge THs - Concrete": {
-   "path": "CONCRETE/Century Communities/Alderidge"
-  },
-  "Century Communities|Bravado - Concrete": {
-   "path": "CONCRETE/Century Communities/Bravado"
-  },
-  "Century Communities|Ishani Ridge (Century Complete)": {
-   "path": "PRODUCTION/Century Complete/Ishani Ridge"
-  },
-  "Century Communities|Modena I - Concrete": {
-   "path": "CONCRETE/Century Communities/Modena I"
-  },
-  "Century Communities|Modena II - Concrete": {
-   "path": "CONCRETE/Century Communities/Modena II"
-  },
-  "Century Communities|Skyeview - Arroyo - Concrete": {
-   "path": "CONCRETE/Century Communities/Skyeview - Arroyo"
-  },
-  "Century Communities|Skyeview - Mesa": {
-   "path": "PRODUCTION/Century Communities/Skyeview - Mesa"
-  },
-  "Century Communities|Skyeview - Mesa - Concrete": {
-   "path": "CONCRETE/Century Communities/Skyeview - Mesa"
-  },
-  "Century Communities|Skyeview - Sierra - Concrete": {
-   "path": "CONCRETE/Century Communities/Skyeview - Sierra"
-  },
-  "Century Communities|Skyeview - Terra": {
-   "path": "PRODUCTION/Century Communities/Skyeview - Terra"
-  },
-  "Century Communities|Skyeview - Terra - Concrete": {
-   "path": "CONCRETE/Century Communities/Skyeview - Terra"
-  },
-  "Century Communities|Southwind": {
-   "path": "PRODUCTION/Century Communities/Southwind"
-  },
-  "Century Communities|Southwind - Concrete": {
-   "path": "CONCRETE/Century Communities/Southwind"
-  },
-  "Century Communities|The Bluffs I - Concrete": {
-   "path": "CONCRETE/Century Communities/The Bluffs I"
-  },
-  "Century Communities|The Bluffs II - Concrete": {
-   "path": "CONCRETE/Century Communities/The Bluffs II"
-  },
-  "Century Communities|Union Village": {
-   "path": "PRODUCTION/Century Communities/Union Village"
-  },
-  "Century Communities|Union Village - Concrete": {
-   "path": "CONCRETE/Century Communities/Union Village"
-  },
-  "KB Homes|Alton 25s - Concrete": {
-   "path": "CONCRETE/KB Home/Alton 25s"
-  },
-  "KB Homes|Alton 35s - Concrete": {
-   "path": "CONCRETE/KB Home/Alton 35s"
-  },
-  "KB Homes|Brevi - Concrete": {
-   "path": "CONCRETE/KB Home/Brevi"
-  },
-  "Tri Pointe of Nevada|Agave Ridge - Concrete": {
-   "path": "CONCRETE/Tri Pointe of Nevada/Agave Ridge"
-  },
-  "Tri Pointe of Nevada|Edgewood": {
-   "path": "PRODUCTION/Tri Pointe of Nevada/Edgewood"
-  },
-  "Tri Pointe of Nevada|Edgewood - Concrete": {
-   "path": "CONCRETE/Tri Pointe of Nevada/Edgewood"
-  },
-  "Other Builders|AMH - Catalina Canyon": {
-   "path": "PRODUCTION/AMH Development/Catalina Canyon"
-  },
-  "Other Builders|AMH - Sapphire Acres": {
-   "path": "PRODUCTION/AMH Development/Sapphire Acres"
-  },
-  "Other Builders|AMH - Sapphire Acres - Concrete": {
-   "path": "CONCRETE/AMH Development/Sapphire Acres"
-  },
-  "Other Builders|Blue Heron - Velaris": {
-   "path": "PRODUCTION/Blue Heron/Velaris"
-  },
-  "Other Builders|Pinnacle - Manitou / Keystone / Powderhorn": {
-   "path": "PRODUCTION/Pinnacle Homes"
-  },
-  "Pergolas|KB - Aven Landings": {
-   "path": "PRODUCTION/KB Home/Aven Landings"
-  },
-  "Pergolas|KB - Aven Reserves": {
-   "path": "PRODUCTION/KB Home/Aven Reserves"
-  },
-  "Pergolas|KB - Brevi": {
-   "path": "PRODUCTION/KB Home/Brevi"
-  },
-  "Pergolas|Century - Bravado": {
-   "path": "CONCRETE/Century Communities/Bravado"
-  },
-  "Pergolas|Century - Southwind": {
-   "path": "PRODUCTION/Century Communities/Southwind"
+  "_readme": "Where each app community's contract PDFs live in the shared OneDrive CONTRACTS folder. Key = 'Builder|Community' exactly as in the app. 'path' is shown as a breadcrumb; add an optional 'url' (a SharePoint share link to that exact folder) to make the button open the folder directly.",
+  "shared_folder_url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBa5H5bojr_RbSnca96B7jBAUpkCrpcHsdISsNM7eXFoyU?e=JWc08Z",
+  "folders": {
+    "Pulte|Aries": {
+      "path": "PRODUCTION/Pulte Homes",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY"
+    },
+    "Pulte|Aries - DW": {
+      "path": "PRODUCTION/Pulte Homes",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY"
+    },
+    "Pulte|Brantley J": {
+      "path": "PRODUCTION/Pulte Homes",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY"
+    },
+    "Pulte|Brantley KL": {
+      "path": "PRODUCTION/Pulte Homes",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY"
+    },
+    "Pulte|Caprock": {
+      "path": "PRODUCTION/Pulte Homes/Ascension - Caprock 5500",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAmzqOQe1vVQaj-is7XdnUaAVAaGyj0k7jzLZqk15rQ-UQ"
+    },
+    "Pulte|Cordora @ El Capitan": {
+      "path": "PRODUCTION/Pulte Homes/Cordora at El Capitan - 2600",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBmpndmxI2FRoavHBKkP6o3AX8yghEwdFvTlQ8rIZhP36g"
+    },
+    "Pulte|Cordora @ Mesa Vista": {
+      "path": "PRODUCTION/Pulte Homes/Cordora at Mesa Vista -2600",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAAIYthaQRaTKoi7u6v72YMAVX8GJGa_1faFzk4BVbVQNA"
+    },
+    "Pulte|Cordora @ Pioneer": {
+      "path": "PRODUCTION/Pulte Homes/Cordora at Pioneer - 2600",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAQi7ceCxWYQZGl72MgTFQmAXqhGTKEj9BoIXvciygIGnY"
+    },
+    "Pulte|Dalylight@WarmSpring": {
+      "path": "PRODUCTION/Pulte Homes/Daylight at Warm Springs - 5000",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBSewVniapJR60C1zmnbhe-AUwL9ApSHI4Ta5Z4Vtp-ObE"
+    },
+    "Pulte|Daylight @ Arville": {
+      "path": "PRODUCTION/Pulte Homes/Daylight at Arville 50-70",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDLwaVgY_NhQJFnsnqp3jtnAS-T-OwKUufwYawSJ2mk6PQ"
+    },
+    "Pulte|Daylight @ Hinson": {
+      "path": "PRODUCTION/Pulte Homes/Daylight at Hinson 50-70",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCkYFIlW9w4SrE7SPXcomzwAfoe6HpirDNQcBQxO6p9On8"
+    },
+    "Pulte|Daylight @ Schuster": {
+      "path": "PRODUCTION/Pulte Homes/Daylight at Schuster 50-70",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAaYM39Pa58QpZuCi4uMjpHAeGTNlfd2DU0KRjNgvQ_Ijk"
+    },
+    "Pulte|Daylight Landberg": {
+      "path": "PRODUCTION/Pulte Homes/Daylight at Landberg - 5000",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDNPDrG-yvBTJWKecMW9BHRAVjwfwDhdgblW9xDLEL2kHo"
+    },
+    "Pulte|Daylight Oquendo": {
+      "path": "PRODUCTION/Pulte Homes/Daylight at Oquendo 50-70",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCEoxBSjoseS6B51rUTekiXAe-KgLwiN1TJQJXJMf6qe-E"
+    },
+    "Pulte|Delamar": {
+      "path": "PRODUCTION/Pulte Homes/Delamar (7538)",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCNEDbXRtxGQI_9cptIgx4TASTAKt_GCXlLVEJ02Sxs0wk"
+    },
+    "Pulte|Delamar@Polaris": {
+      "path": "PRODUCTION/Pulte Homes/Delamar at Polaris",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDlGEnw9fAbQp-JaZZ-JoStAYgtPMmo5Jpb0y1VQtEc2gI"
+    },
+    "Pulte|Evercrest at Ironstone": {
+      "path": "PRODUCTION/Pulte Homes",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY"
+    },
+    "Pulte|Glass Canyon": {
+      "path": "PRODUCTION/Pulte Homes/Glass Canyon - 5500",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCeKKlfzI8ySrgfUzle1irgAQWAEaQ1GZ71cvr2fIvGd80"
+    },
+    "Pulte|Hayford": {
+      "path": "PRODUCTION/Pulte Homes/Hayford Collection (7438)",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCkhaQR15ohQbX1fncegsP8AcYsVWSeQ1Nf7dCNeYFTG9E"
+    },
+    "Pulte|Hayford@Polaris": {
+      "path": "PRODUCTION/Pulte Homes/Hayford at Polaris - 4500",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBOWWIQx_vURInhrt31zANRATkncVh6Et5k9asPVHJSdCY"
+    },
+    "Pulte|Lake.Las.Vegas": {
+      "path": "PRODUCTION/Pulte Homes",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY"
+    },
+    "Pulte|Luxury @ El Capitan": {
+      "path": "PRODUCTION/Pulte Homes/Luxury at El Capitan - 2600 (9226)",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBSHhdAVhrLSq9Szt0lQvX7ASDSFLCrgmIxtEq_39RWnK4"
+    },
+    "Pulte|Paldona @ Pioneer": {
+      "path": "PRODUCTION/Pulte Homes/Paldona at Pioneer - 3000",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDXTDhqBD-PS4KkZ8UDUNecAX2KpdTqFE640m5cL1EXNFw"
+    },
+    "Pulte|Paldona@Buffalo": {
+      "path": "PRODUCTION/Pulte Homes/Paldona at Buffalo",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDmDevbEGPvSoP91m72VGxWAZKmx28gBwnbN9NAdzZMchQ"
+    },
+    "Pulte|Paldona@Cimarron": {
+      "path": "PRODUCTION/Pulte Homes/Paldona at Cimarron",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgB4XsskN_YfS7j5S_F0PWS9ARwqO65ATsuiIAzN3_vs7O4"
+    },
+    "Pulte|Quinn.Canyon": {
+      "path": "PRODUCTION/Pulte Homes/Quinn Canyon",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCH9nwJ0UXcSpth-tctuYYDAcm5UMkIu0Paon9svKwOdW4"
+    },
+    "Pulte|RC.Luxury": {
+      "path": "PRODUCTION/Pulte Homes/Rainbow Crossing Luxury",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCRvaqLO9f3Q5XzAcbAEli4ASz3KPhO26dxtdsR5Jjh3Ds"
+    },
+    "Pulte|Tenaya Springs @ Landberg": {
+      "path": "PRODUCTION/Pulte Homes/Tenaya Spring @ Landberg - 2500",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgC1xPfWJh4QR5nZgcciYBPbAZlqD32ZHLOMy7oz6QYoxv0"
+    },
+    "Pulte|Tenaya Springs @ Landberg - Concrete": {
+      "path": "CONCRETE/Pulte Homes/Tenaya Spring @ Landberg - 2500",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDUiTMpdneeTpoUaWgfTrwlAbnLJDv8Ugd5fbY54jSOnuI"
+    },
+    "Pulte|Tenaya Springs @ Lone Mesa": {
+      "path": "PRODUCTION/Pulte Homes/Tenaya Spring @ Lone Mesa 2500",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCibE44wHiURLzVtenx92fpAa6nZwbUzmHEXyRYe47K4n4"
+    },
+    "Pulte|Tenaya Springs @ Lone Mesa - Concrete": {
+      "path": "CONCRETE/Pulte Homes/Tenaya Spring @ Lone Mesa 2500",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBK5Ri3gkV7SKm_JNUPrXZAAZH6GYmyX6JslIe8c13tzHw"
+    },
+    "Pulte|Tenaya Springs @ Patrick": {
+      "path": "PRODUCTION/Pulte Homes/Tenaya Spring @ Patrick - 2500",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCOwfGHJsbbRqdBu2geCeJtAXGnI2M6WofFAZ2y0HZ1CeM"
+    },
+    "Pulte|Tenaya Springs @ Patrick - Concrete": {
+      "path": "CONCRETE/Pulte Homes/Tenaya Spring @ Patrick - 2500",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCY5u_K35qmR7aOU6d6XPUGAVbWP1w2yD8IXrqVzTh-5aI"
+    },
+    "Pulte|Tenaya.Springs": {
+      "path": "PRODUCTION/Pulte Homes",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY"
+    },
+    "Pulte|The.Pointe": {
+      "path": "PRODUCTION/Pulte Homes/Ascension - The Pointe",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBjAejGOCHVR6r1jJOXtTCFAc_LSBRF3IFSDjzdvP037Ro"
+    },
+    "Pulte|Wesley.Park": {
+      "path": "PRODUCTION/Pulte Homes/Wesley Park Waverly Collection",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBp6mKljjZpRK8TmvSrr31BAcV8tacLYAyGWD8AxaWzDBo"
+    },
+    "Pulte|Westlight": {
+      "path": "PRODUCTION/Pulte Homes/Westlight",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgD2RKKFVbQTTbdp6ZILRCLWAb9Mw3-MhHqV0jdQF7xFlbM"
+    },
+    "Woodside|Acacia - Concrete": {
+      "path": "CONCRETE/Woodside Homes/Acacia at Cadence",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCL0XWXCPPQR5_hhdG8vBwJAX7wP-ehMruvsr60vBd_xpg"
+    },
+    "Woodside|Adair": {
+      "path": "PRODUCTION/Woodside Homes/Adair",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCHuv7lFgf0TLgt7lX5pkKGASABRvWn_cNFX-WDcYqN-y8"
+    },
+    "Woodside|Adair - Concrete": {
+      "path": "CONCRETE/Woodside Homes/Adair",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAVepxcM0oKQ7augVeyYhUqAXVSIT6cXUOKIlixhacoF9w"
+    },
+    "Woodside|Ambridge": {
+      "path": "PRODUCTION/Woodside Homes/Ambridge at Cadence",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDgkA3AwTkLQq6MfR_16VLuAaDNuJ9bvreGvAI1565qWSg"
+    },
+    "Woodside|Ambridge - Concrete": {
+      "path": "CONCRETE/Woodside Homes/Ambridge at Cadence",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgADj5ERE7rCSIynHveg7yC1AUme7Dh8Xyn7VH3dgXJYwYI"
+    },
+    "Woodside|Arcadia": {
+      "path": "PRODUCTION/Woodside Homes/Shawood at Arcadia",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCrq23tauN8Qo4Y5p1CeQdRAaaITbxw3xyB1HeFLkCQWLA"
+    },
+    "Woodside|Arcadia - Concrete": {
+      "path": "CONCRETE/Woodside Homes/Arcadia",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgC6uFYtzUT1Rq55EVH1bsg9ASklizsMIN-EtHRdyFBhjfU"
+    },
+    "Woodside|Ashwood": {
+      "path": "PRODUCTION/Woodside Homes/Ashwood",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCRBxdTXfsMQbHoCVFf9nSlAa0_o9jkz1nOAcpKvmZ1VpM"
+    },
+    "Woodside|Ashwood - Concrete": {
+      "path": "CONCRETE/Woodside Homes/Ashwood",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgB-nrxSTkxHTb7NwN6thReEAd1Go8yTAzGwGCMawAouHRM"
+    },
+    "Woodside|Dove Rock": {
+      "path": "PRODUCTION/Woodside Homes/Dove Rock",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCEt6AfwDUUR6mHZst6bxgFAXG-iGPTnUrY3LaQInT1JC0"
+    },
+    "Woodside|Dove Rock - Concrete": {
+      "path": "CONCRETE/Woodside Homes/Dove Rock",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCmN1XIpXcrSbco1obohg27AVAiLpcm4hPVmkH0T_GgD48"
+    },
+    "Woodside|Estrella at Sunstone": {
+      "path": "PRODUCTION/Woodside Homes/Estrella at Sunstone",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBeCXQs_atZSKXCOUrKfS-MAXNV-wFF3ZptdpKVoU4oUA8"
+    },
+    "Woodside|Luna at Sunstone": {
+      "path": "PRODUCTION/Woodside Homes/Luna at Sunstone",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCUcJ2SVV8mRY8HXhKJ1GNxAQLkDhbdmi8zQNI9soAdu-Q"
+    },
+    "Woodside|Meridian - Concrete": {
+      "path": "CONCRETE/Woodside Homes/Meridian at Cadence",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDaJ1uCapFxRoGXqU8aLjO0AX8P89yNnPvyiVYuW7SXeDw"
+    },
+    "Woodside|Orchards": {
+      "path": "PRODUCTION/Woodside Homes/Shawood at the Orchards",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAyLxnb3bsGSpWEGXkTlYguAeFiJ2wEsMq4MWuvC31FgPE"
+    },
+    "Woodside|Orchards - Concrete": {
+      "path": "CONCRETE/Woodside Homes/Shawood at the Orchards",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgA2S9zQDkulRbXJFCQpZCklAWFIBsWKWWcFkjyPR1qkwiU"
+    },
+    "Woodside|Serenata": {
+      "path": "PRODUCTION/Woodside Homes/Serenata",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgD5ZTsWKYomRLWY3VNvob_ZAd5ifrmUtl0Zanco4e8O7-w"
+    },
+    "Woodside|Serenata - Concrete": {
+      "path": "CONCRETE/Woodside Homes/Serenata",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCPa64SWHFCRa65VEHBrDMBASUtZK6kW2LoWePyE3uxQAQ"
+    },
+    "Richmond|Amalfi at Mountain Falls": {
+      "path": "PRODUCTION/Taylor Morrison/Amalfi at Mountain Falls",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgA9UgyH_hTtRJ7ixaM4cdw1AVTU3X0o-W8YiVYfHJLHxpc"
+    },
+    "Richmond|Arabella (ATP II - RV)": {
+      "path": "PRODUCTION/Richmond Homes/Arabella",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgApNAlt6VpmQr2UX1itQaEpAbhHabGIaH6lESVzqPzGE0U"
+    },
+    "Richmond|Arborbrook / Stonehaven": {
+      "path": "PRODUCTION/Richmond Homes",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDfegK96AjNQbEQ3q6Ost1cAecUs-pfrg3oSIQBj4p6kMs"
+    },
+    "Richmond|Archer Park (Buf & Gomer)": {
+      "path": "PRODUCTION/Richmond Homes/Archer Park",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAEstD67kSdSqoVsFPLVajmAejSJO2GrhVcqSohAwOs-cc"
+    },
+    "Richmond|Camden": {
+      "path": "PRODUCTION/Richmond Homes/Camden I & II",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCjscU3frxDR68vNnn3bF5pAcxnJfMHH4EAaxCdMk-pZ5c"
+    },
+    "Richmond|Camden II": {
+      "path": "PRODUCTION/Richmond Homes/Camden I & II",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCjscU3frxDR68vNnn3bF5pAcxnJfMHH4EAaxCdMk-pZ5c"
+    },
+    "Richmond|Cashmere Meadows": {
+      "path": "PRODUCTION/Richmond Homes",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDfegK96AjNQbEQ3q6Ost1cAecUs-pfrg3oSIQBj4p6kMs"
+    },
+    "Richmond|Interlude at Cadence": {
+      "path": "PRODUCTION/Richmond Homes/Interlude",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBr-491fuQsTYd9IH3tINeKAcA3pHFP7EBoex7R76L11BM"
+    },
+    "Richmond|Primrose Park (Parcel J)": {
+      "path": "PRODUCTION/Richmond Homes/Primrose Park",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAT0abcDuPOSJ_TqzvV9pfsAS2J3tZ6HOBhm_msgOtDScs"
+    },
+    "Richmond|Teton Terrace (Buf&Tet R)": {
+      "path": "PRODUCTION/Richmond Homes/Teton Terrace",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAslhl7m0nsSoq48d-wcpi3AZXFArBWRVUQkbFCyTFT2ZE"
+    },
+    "Taylor Morrison|Ashland - Concrete": {
+      "path": "CONCRETE/Taylor Morrison/Ashland 60 Series",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDfsM-e5rT-T4vXMgCby8LHAf9wRZRdP3tPS4qA7-E_L0U"
+    },
+    "Taylor Morrison|Esplanade 35s": {
+      "path": "PRODUCTION/Taylor Morrison/Esplanade 35s",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgC2LzhvSRu9QYB1yTDP5dZnAUue1Z4DaQSEwVghIYbXw40"
+    },
+    "Taylor Morrison|Esplanade 45s": {
+      "path": "PRODUCTION/Taylor Morrison/Esplanade 45s",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCv0ABg4Sn6ToQA9UPATJQqATzaU8it0uLNQ8yBgmmCHo4"
+    },
+    "Taylor Morrison|Esplanade 45s - Concrete": {
+      "path": "CONCRETE/Taylor Morrison/Esplanade 45s",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDYu-q5vgeBR6xN1ejXhJZQAdNoSTFylyVM3foNXf3_-ZA"
+    },
+    "Taylor Morrison|Esplanade 55s": {
+      "path": "PRODUCTION/Taylor Morrison/Esplanade 55s",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDLg4zJkBH-SIjcVpdeUCLtAfIY2wDwdCbauiae633HqM0"
+    },
+    "Taylor Morrison|Esplanade Duplex": {
+      "path": "PRODUCTION/Taylor Morrison/Esplanade Duplex",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBdIC0d5gK7SoITlIL18fgVAdU6x-p4TLnP1-psBE0zRdw"
+    },
+    "Taylor Morrison|Esplanade Duplex - Concrete": {
+      "path": "CONCRETE/Taylor Morrison/Esplanade Duplex",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAT71EtgvDrT7t6RDek5KM3ARRYwIpuyotEVbOzUVfXAPc"
+    },
+    "Taylor Morrison|LLV Portofino 40s": {
+      "path": "PRODUCTION/Taylor Morrison/Portofino",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDnJuDl-SO0RaXCg51z0nFNAQVsOljujgWeZqLdsjLMKkM"
+    },
+    "Taylor Morrison|LLV Portofino 50s": {
+      "path": "PRODUCTION/Taylor Morrison/Portofino",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDnJuDl-SO0RaXCg51z0nFNAQVsOljujgWeZqLdsjLMKkM"
+    },
+    "Taylor Morrison|LLV Portofino 60s": {
+      "path": "PRODUCTION/Taylor Morrison/Portofino",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDnJuDl-SO0RaXCg51z0nFNAQVsOljujgWeZqLdsjLMKkM"
+    },
+    "Taylor Morrison|LLV Verona - Concrete": {
+      "path": "CONCRETE/Taylor Morrison/Verona at Lake Las Vegas",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAOT8DgDp9PT7NEHYaCHOkvAVWJyLkmHHlwsKfXsmqjp78"
+    },
+    "Taylor Morrison|MFLLC 40s (Mountain Falls)": {
+      "path": "PRODUCTION/Taylor Morrison/Mtn Falls 40s (Vivere)",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDOtT_yeybmRbYsGbFBgEKWAXq5eU91i4_f9VrrNupB1m8"
+    },
+    "Taylor Morrison|Opus at Cadence 25s - Concrete": {
+      "path": "CONCRETE/Taylor Morrison/Opus",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBRIy3_HeTTSrb5X7mGfqAyAWSTV2V-3TLKBpVqO3EX10I"
+    },
+    "Taylor Morrison|Opus at Cadence 30s - Concrete": {
+      "path": "CONCRETE/Taylor Morrison/Opus",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBRIy3_HeTTSrb5X7mGfqAyAWSTV2V-3TLKBpVqO3EX10I"
+    },
+    "Taylor Morrison|SL Lark Hill - Concrete": {
+      "path": "CONCRETE/Taylor Morrison/Lark Hill",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgA5GS1wVI8VR4VGXvO3PfibARPW1FTGw1mc9YFuzKZ0fIc"
+    },
+    "Century Communities|Alderidge THs - Concrete": {
+      "path": "CONCRETE/Century Communities/Alderidge",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBKaTxW2WHpQb4msFP5JfuXAWOKA7eQ47iyTbeLN0cXpZ8"
+    },
+    "Century Communities|Bravado - Concrete": {
+      "path": "CONCRETE/Century Communities/Bravado",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAhluRxjeBnS7-8iFtSF6SOAdkF8WrZeGfOmk2VAbJwH20"
+    },
+    "Century Communities|Ishani Ridge (Century Complete)": {
+      "path": "PRODUCTION/Century Complete/Ishani Ridge",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBl1ooPgIXYRZrcKlKogfKsAaXSbEhI00Zcnq-STM82R18"
+    },
+    "Century Communities|Modena I - Concrete": {
+      "path": "CONCRETE/Century Communities/Modena I",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgC1Jnwf4yA6SJJ7BpMRTTk6AfPe5DDLQFxgmz-niAl_VtU"
+    },
+    "Century Communities|Modena II - Concrete": {
+      "path": "CONCRETE/Century Communities/Modena II",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgC5unE0ixWvRa1x-EjIuELCAb0fBnFCwacuXFLT6QDTmko"
+    },
+    "Century Communities|Skyeview - Arroyo - Concrete": {
+      "path": "CONCRETE/Century Communities/Skyeview - Arroyo",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAw5IG-NkKvTJ05eBmgfJXKAfmMVNbwX1exuv21tTgWJJg"
+    },
+    "Century Communities|Skyeview - Mesa": {
+      "path": "PRODUCTION/Century Communities/Skyeview - Mesa",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDj5uqVyRGATpm9H5qI1GyIAZcRHgYy3bSTawxgi-c7Q9k"
+    },
+    "Century Communities|Skyeview - Mesa - Concrete": {
+      "path": "CONCRETE/Century Communities/Skyeview - Mesa",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAKw3AwSYr4T5p9pFvHp775AdsAnpX5ugOu50a9hmI3gj8"
+    },
+    "Century Communities|Skyeview - Sierra - Concrete": {
+      "path": "CONCRETE/Century Communities/Skyeview - Sierra",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDvbPgvOVg4RZcyCXposN_GAcstD9gHvX4y3AUrH2HAliY"
+    },
+    "Century Communities|Skyeview - Terra": {
+      "path": "PRODUCTION/Century Communities/Skyeview - Terra",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDlsLRR54SGRpJRKCXdozuJAZRIlhyM8WDSOy5U5jXcdKQ"
+    },
+    "Century Communities|Skyeview - Terra - Concrete": {
+      "path": "CONCRETE/Century Communities/Skyeview - Terra",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDX6jdXq4LJRYOuG8vEPkhOAecV_0Fn7QHjSICxISKNsRg"
+    },
+    "Century Communities|Southwind": {
+      "path": "PRODUCTION/Century Communities/Southwind",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgB1ZTQb1YY0S4C5CzY0YTOPAd1_xrQav4zHtqGGypd-aFI"
+    },
+    "Century Communities|Southwind - Concrete": {
+      "path": "CONCRETE/Century Communities/Southwind",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBQ6F34L78UQIAPFQiKrK97AbMIWx5-mhZyzz2r7PyFNQc"
+    },
+    "Century Communities|The Bluffs I - Concrete": {
+      "path": "CONCRETE/Century Communities/The Bluffs I",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAFJVPijSBWTJ8jHbZGcXcLAeNTBX9B1d0bZD-O50En3Uw"
+    },
+    "Century Communities|The Bluffs II - Concrete": {
+      "path": "CONCRETE/Century Communities/The Bluffs II",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAP-XKXGREfTbsKPedW4K--AdR5YQFmz-EpWi0JFvXuOgs"
+    },
+    "Century Communities|Union Village": {
+      "path": "PRODUCTION/Century Communities/Union Village",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCeDSwtLvDUQI9jUDEay7K5AbqhB1Nzy5VHh9ScyTvgoP8"
+    },
+    "Century Communities|Union Village - Concrete": {
+      "path": "CONCRETE/Century Communities/Union Village",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBSrChjsgrcS5dX5bcQJ7KPATE83azpwq0VhuYyOmyNQ4Q"
+    },
+    "KB Homes|Alton 25s - Concrete": {
+      "path": "CONCRETE/KB Home/Alton 25s",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBRKszAaQ_XQoiRn6tbtpCVAQaFBKbFc_AyW84coop-E7w"
+    },
+    "KB Homes|Alton 35s - Concrete": {
+      "path": "CONCRETE/KB Home/Alton 35s",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgB6RyqmV0HJSJv1iDyB7HCzAaT0w4bP8VUvfKnCqxGO9Bk"
+    },
+    "KB Homes|Brevi - Concrete": {
+      "path": "CONCRETE/KB Home/Brevi",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAgHcw8TP9KRr8d289ol9OJAaWfe8FyOgWz7V9g7uwvQ0g"
+    },
+    "Tri Pointe of Nevada|Agave Ridge - Concrete": {
+      "path": "CONCRETE/Tri Pointe of Nevada/Agave Ridge",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCmFlG9AQsFTJMEprUJ9T47Ae46KXGi6LsfKRDUyz5EWOQ"
+    },
+    "Tri Pointe of Nevada|Edgewood": {
+      "path": "PRODUCTION/Tri Pointe of Nevada/Edgewood",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAz3KV08yp5S5z8Ufdd-8E3AU18UbvagIdiwWrFOpl_z_g"
+    },
+    "Tri Pointe of Nevada|Edgewood - Concrete": {
+      "path": "CONCRETE/Tri Pointe of Nevada/Edgewood",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBEUH-HWby-QoNpgvIWVAtUATN14c23Ric18_--iS9BX2w"
+    },
+    "Other Builders|AMH - Catalina Canyon": {
+      "path": "PRODUCTION/AMH Development/Catalina Canyon",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDnyeZRI36DSLNyrWlCykVYAeFaz9AYdK2bpakSY72wrgk"
+    },
+    "Other Builders|AMH - Sapphire Acres": {
+      "path": "PRODUCTION/AMH Development/Sapphire Acres",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAXzmlQjbFDSpRj0mUvRWCKAZ3_zCFqT_EJNWEpfJPvf2w"
+    },
+    "Other Builders|AMH - Sapphire Acres - Concrete": {
+      "path": "CONCRETE/AMH Development/Sapphire Acres",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCBZ8YT0o5kQIIcq7QZ2PO2AV08wSdONgiVVXHHydyvDr8"
+    },
+    "Other Builders|Blue Heron - Velaris": {
+      "path": "PRODUCTION/Blue Heron/Velaris",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgD_tiyq5Nd7Trh7MyQ-FlwOAcfVCWH40eLt3ZXBBgf9qsg"
+    },
+    "Other Builders|Pinnacle - Manitou / Keystone / Powderhorn": {
+      "path": "PRODUCTION/Pinnacle Homes",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAiuYNWk3RxR67bWE91AI40AQ7BmhG0AknTRvZjtGhESfE"
+    },
+    "Pergolas|KB - Aven Landings": {
+      "path": "PRODUCTION/KB Home/Aven Landings",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgB2qtjD9t_DR7YOsgkuHQAXARzR9DCtdDFtHJIMwKujxc0"
+    },
+    "Pergolas|KB - Aven Reserves": {
+      "path": "PRODUCTION/KB Home/Aven Reserves",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAt55FQAtt-Ra-_jqjVmh3gAdU1WyLix8vg-SD8ASr9MY4"
+    },
+    "Pergolas|KB - Brevi": {
+      "path": "PRODUCTION/KB Home/Brevi",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDh8a0jidiyQqQ7A_evG_lkAcCoQieUz1jFTj_xXV3klfw"
+    },
+    "Pergolas|Century - Bravado": {
+      "path": "CONCRETE/Century Communities/Bravado",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAhluRxjeBnS7-8iFtSF6SOAdkF8WrZeGfOmk2VAbJwH20"
+    },
+    "Pergolas|Century - Southwind": {
+      "path": "PRODUCTION/Century Communities/Southwind",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgB1ZTQb1YY0S4C5CzY0YTOPAd1_xrQav4zHtqGGypd-aFI"
+    }
   }
- }
 }
