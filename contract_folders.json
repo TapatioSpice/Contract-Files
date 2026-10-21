@@ -1,22 +1,26 @@
 {
-  "_readme": "Where each app community's contract PDFs live in the shared OneDrive CONTRACTS folder. Key = 'Builder|Community' exactly as in the app. 'path' is shown as a breadcrumb; add an optional 'url' (a SharePoint share link to that exact folder) to make the button open the folder directly.",
+  "_readme": "Where each app community's contract PDFs live in the shared OneDrive CONTRACTS folder. Key = 'Builder|Community' exactly as in the app. 'path' is shown as a breadcrumb; add an optional 'url' (a SharePoint share link to that exact folder) to make the button open the folder directly. Keys can also be \"Builder|Community|Series\" when one app community spans several OneDrive folders; entries with \"level\": \"builder\" have no community folder yet.",
   "shared_folder_url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBa5H5bojr_RbSnca96B7jBAUpkCrpcHsdISsNM7eXFoyU?e=JWc08Z",
   "folders": {
     "Pulte|Aries": {
       "path": "PRODUCTION/Pulte Homes",
-      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY"
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY",
+      "level": "builder"
     },
     "Pulte|Aries - DW": {
       "path": "PRODUCTION/Pulte Homes",
-      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY"
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY",
+      "level": "builder"
     },
     "Pulte|Brantley J": {
       "path": "PRODUCTION/Pulte Homes",
-      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY"
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY",
+      "level": "builder"
     },
     "Pulte|Brantley KL": {
       "path": "PRODUCTION/Pulte Homes",
-      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY"
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY",
+      "level": "builder"
     },
     "Pulte|Caprock": {
       "path": "PRODUCTION/Pulte Homes/Ascension - Caprock 5500",
@@ -68,7 +72,8 @@
     },
     "Pulte|Evercrest at Ironstone": {
       "path": "PRODUCTION/Pulte Homes",
-      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY"
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY",
+      "level": "builder"
     },
     "Pulte|Glass Canyon": {
       "path": "PRODUCTION/Pulte Homes/Glass Canyon - 5500",
@@ -84,7 +89,8 @@
     },
     "Pulte|Lake.Las.Vegas": {
       "path": "PRODUCTION/Pulte Homes",
-      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY"
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY",
+      "level": "builder"
     },
     "Pulte|Luxury @ El Capitan": {
       "path": "PRODUCTION/Pulte Homes/Luxury at El Capitan - 2600 (9226)",
@@ -135,8 +141,8 @@
       "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCY5u_K35qmR7aOU6d6XPUGAVbWP1w2yD8IXrqVzTh-5aI"
     },
     "Pulte|Tenaya.Springs": {
-      "path": "PRODUCTION/Pulte Homes",
-      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY"
+      "path": "PRODUCTION/Pulte Homes/Tenaya Spring @ Cimarron - 2500",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAlSFGiCr4MR6k-AlkqE7txAZQKfIafeh5xMTIvk7lOpS8"
     },
     "Pulte|The.Pointe": {
       "path": "PRODUCTION/Pulte Homes/Ascension - The Pointe",
@@ -232,7 +238,8 @@
     },
     "Richmond|Arborbrook / Stonehaven": {
       "path": "PRODUCTION/Richmond Homes",
-      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDfegK96AjNQbEQ3q6Ost1cAecUs-pfrg3oSIQBj4p6kMs"
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDfegK96AjNQbEQ3q6Ost1cAecUs-pfrg3oSIQBj4p6kMs",
+      "level": "builder"
     },
     "Richmond|Archer Park (Buf & Gomer)": {
       "path": "PRODUCTION/Richmond Homes/Archer Park",
@@ -248,7 +255,8 @@
     },
     "Richmond|Cashmere Meadows": {
       "path": "PRODUCTION/Richmond Homes",
-      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDfegK96AjNQbEQ3q6Ost1cAecUs-pfrg3oSIQBj4p6kMs"
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDfegK96AjNQbEQ3q6Ost1cAecUs-pfrg3oSIQBj4p6kMs",
+      "level": "builder"
     },
     "Richmond|Interlude at Cadence": {
       "path": "PRODUCTION/Richmond Homes/Interlude",
@@ -435,24 +443,213 @@
       "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAiuYNWk3RxR67bWE91AI40AQ7BmhG0AknTRvZjtGhESfE"
     },
     "Pergolas|KB - Aven Landings": {
-      "path": "PRODUCTION/KB Home/Aven Landings",
-      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgB2qtjD9t_DR7YOsgkuHQAXARzR9DCtdDFtHJIMwKujxc0"
+      "path": "CUSTOMS/KB Home/Aven Landings",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBmRcIbEt_SRrJFdZgH0G8EAVwaPn0b1SEHsEdjSPtP3Zc"
     },
     "Pergolas|KB - Aven Reserves": {
-      "path": "PRODUCTION/KB Home/Aven Reserves",
-      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAt55FQAtt-Ra-_jqjVmh3gAdU1WyLix8vg-SD8ASr9MY4"
+      "path": "CUSTOMS/KB Home/Aven Reserves",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAVdncWB5tIRaTnmy_paFu7AS4-hAqsQk_exjzFJixe-hM"
     },
     "Pergolas|KB - Brevi": {
-      "path": "PRODUCTION/KB Home/Brevi",
-      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDh8a0jidiyQqQ7A_evG_lkAcCoQieUz1jFTj_xXV3klfw"
+      "path": "CUSTOMS/KB Home/Brevi",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBPz1cU_MMMT41tKbWLECgFAWwyuFOMTNVLtSY-E2KFXGE"
     },
     "Pergolas|Century - Bravado": {
-      "path": "CONCRETE/Century Communities/Bravado",
-      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAhluRxjeBnS7-8iFtSF6SOAdkF8WrZeGfOmk2VAbJwH20"
+      "path": "CUSTOMS/Century Communities/Bravado",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgB9g6YT8YZ5RqmWBQYN2gGmARj5HKBP0dsemFfh6LphMfo"
     },
     "Pergolas|Century - Southwind": {
-      "path": "PRODUCTION/Century Communities/Southwind",
-      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgB1ZTQb1YY0S4C5CzY0YTOPAd1_xrQav4zHtqGGypd-aFI"
+      "path": "CUSTOMS/Century Communities/Southwind",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAOIUGkA9uESa9JOyhIi6mVAVUF_DjTg5HvVJ49MBdINqc"
+    },
+    "Pulte|Aries|2500": {
+      "path": "PRODUCTION/Pulte Homes/Aries - 2500",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCjsCg08A2CTLGGSFqTG3TVAbyIpbzIPIQTWHQn3jAx5gI"
+    },
+    "Pulte|Aries|3000": {
+      "path": "PRODUCTION/Pulte Homes/Aries - 3000 (Sora)",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAALGpeknHlQoQPr9u3wKDFATUZ72fT0QBmKCP2uaZpOsU"
+    },
+    "Pulte|Aries|3500": {
+      "path": "PRODUCTION/Pulte Homes/Aries - 3500 (Desert Mesa)",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgC4u-bsa0g7T7vwVYAo83ehAThpYPKp2Nlkp6CHGkOfA2Q"
+    },
+    "Pulte|Aries|4000-Single": {
+      "path": "PRODUCTION/Pulte Homes/Aries - 4000 (Sundale)",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgD4ndCzruiKT5rQE0nkDE29ARCym0WDGUq8w85-GubFZQ0"
+    },
+    "Pulte|Aries|4000-Two": {
+      "path": "PRODUCTION/Pulte Homes/Aries - 4000 (Sundale)",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgD4ndCzruiKT5rQE0nkDE29ARCym0WDGUq8w85-GubFZQ0"
+    },
+    "Pulte|Aries|4500": {
+      "path": "PRODUCTION/Pulte Homes/Aries - 4500",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAJRQ9uMBbPQJtmv8O5_FI4AefBkuYSfj4G3nOZQV6TUDY"
+    },
+    "Pulte|Aries|MF": {
+      "path": "PRODUCTION/Pulte Homes/Aries - MF (Dalea)",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgC_YDfy4Ri4SYXjzDSa6umxAfPlXXIOZkTxHt5QzboKs3c"
+    },
+    "Pulte|Aries - DW|3000": {
+      "path": "PRODUCTION/Pulte Homes/Aries - DW at Aries - 3000",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBb0Fr8OFR9SKVRSTTrP-KKAfdwR1LSSpo0VS4LqmVsLSs"
+    },
+    "Pulte|Aries - DW|4200": {
+      "path": "PRODUCTION/Pulte Homes/Aries - DW at Aries - 4200",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDEH8T0sU90R6wSE-SbDyZjAcA9CgtIkMlZMdUcmsXha5g"
+    },
+    "Pulte|Aries - DW|5400": {
+      "path": "PRODUCTION/Pulte Homes/Aries - DW at Aries - 5400",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgDfqk9nyFJlSIk0XxZ-1jNpAWJ-8Twp1f4ikoTyuc_pPcs"
+    },
+    "Pulte|Brantley J|4500": {
+      "path": "PRODUCTION/Pulte Homes/Brantley KL - 4500",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBiFJ-jsKMpTbBHDVlOz-j4AXZ4HfSGlLSK3TJh8jV4gME"
+    },
+    "Pulte|Brantley J|5500": {
+      "path": "PRODUCTION/Pulte Homes/Brantley KL - 5500",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgApjU7KSXkDR7L6J1nfyeSiAa8JMvO3z6gJUSB-j_biAHs"
+    },
+    "Pulte|Brantley KL|3500": {
+      "path": "PRODUCTION/Pulte Homes/Brantley KL - 3500",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCMkxnsh_bvT6epZOIJbeYnAbTU-EiY7fyP78O-s_cKSVo"
+    },
+    "Pulte|Brantley KL|4500": {
+      "path": "PRODUCTION/Pulte Homes/Brantley KL - 4500",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBiFJ-jsKMpTbBHDVlOz-j4AXZ4HfSGlLSK3TJh8jV4gME"
+    },
+    "Pulte|Brantley KL|5500": {
+      "path": "PRODUCTION/Pulte Homes/Brantley KL - 5500",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgApjU7KSXkDR7L6J1nfyeSiAa8JMvO3z6gJUSB-j_biAHs"
+    },
+    "Pulte|Lake.Las.Vegas|C2-3000": {
+      "path": "PRODUCTION/Pulte Homes/Lake Las Vegas Del Webb 3000 Series 7768",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCsKli9R2HzRLS0QPkmx7pxAf4oU0LpJjpY2UTTF18fTVU"
+    },
+    "Pulte|Lake.Las.Vegas|C2-4500": {
+      "path": "PRODUCTION/Pulte Homes/Lake Las Vegas Del Webb 4500 Series 7769",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCXxjbAF8FpQqOTiKR6LXmxAdFs23AIaaCnu0TYlKABb3c"
+    },
+    "Pulte|Lake.Las.Vegas|M5-5400": {
+      "path": "PRODUCTION/Pulte Homes/Lake Las Vegas Del Webb 5400 Series 7770",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgANtABWkXboS58feKlPFBSTAS289D5yZmHBuiapvC5ERZQ"
+    },
+    "Pulte|Lake.Las.Vegas|S2-4500": {
+      "path": "PRODUCTION/Pulte Homes/ARCHIVED/Lake Las Vegas Del Webb S2",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAEY_shx69WQr6vy5N8xWUVAbQ42OGnWRlToRkEXBQS-Z4"
+    },
+    "Pulte|Lake.Las.Vegas|S3-5400": {
+      "path": "PRODUCTION/Pulte Homes/ARCHIVED/Lake Las Vegas Del Webb S3",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBJhhVH3nLvTbF3dMGWQe8AAbaXlL2sXKPGpxqcI8Xtcuk"
+    },
+    "Pulte|Liberty": {
+      "path": "PRODUCTION/Pulte Homes/Liberty (ZMOL)",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiwEVTkfoKRbeop5mBhaMkAfVSYIBDa1GwyQM5_ZShmYQ"
+    },
+    "Pulte|Liberty.CT.8": {
+      "path": "PRODUCTION/Pulte Homes/Liberty Ct. 8",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAHOS-wkjHdQLH9BvgCKVjOAdxIqRrnW8BnDYLdJTGnfwg"
+    },
+    "Pulte|Luxury@Russell": {
+      "path": "PRODUCTION/Pulte Homes/Luxury at Russell - 3600",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCmD1Uy3RcORaXx7T6TSFsTAcqccFXJTMtyCEd7Ly95f7k"
+    },
+    "Pulte|Luxury@Warm Springs": {
+      "path": "PRODUCTION/Pulte Homes/Luxury at Warm Springs - 3600",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgAD0XHH53hrRp6-wZCFp0FRARBJRlLZ6bX0km2ErN17cCQ"
+    },
+    "Pergolas|KB - Caspian Bay 25s": {
+      "path": "CUSTOMS/KB Home/Caspian Bay 25s",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgA5r1fY36izQYd0N8qhThaUASA1RDcTJAuWsiAhqbv6d8U"
+    },
+    "Pergolas|KB - Caspian Bay 35s": {
+      "path": "CUSTOMS/KB Home/Caspian Bay 35s",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgBXbRF6_s9-TKHZu69vZPAhAW4JBRL7TuSfTOKWpsHxgZU"
+    },
+    "Pulte|Aldervista": {
+      "path": "PRODUCTION/Pulte Homes",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY",
+      "level": "builder"
+    },
+    "Pulte|Ashcroft": {
+      "path": "PRODUCTION/Pulte Homes",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY",
+      "level": "builder"
+    },
+    "Pulte|Blacktail": {
+      "path": "PRODUCTION/Pulte Homes",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY",
+      "level": "builder"
+    },
+    "Pulte|Carmel Cliff": {
+      "path": "PRODUCTION/Pulte Homes",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY",
+      "level": "builder"
+    },
+    "Pulte|Cordora": {
+      "path": "PRODUCTION/Pulte Homes",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY",
+      "level": "builder"
+    },
+    "Pulte|Daylight@Cameron": {
+      "path": "PRODUCTION/Pulte Homes",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY",
+      "level": "builder"
+    },
+    "Pulte|Incline": {
+      "path": "PRODUCTION/Pulte Homes",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY",
+      "level": "builder"
+    },
+    "Pulte|Jones.Crossing": {
+      "path": "PRODUCTION/Pulte Homes",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY",
+      "level": "builder"
+    },
+    "Pulte|Liberty.Silvercourt": {
+      "path": "PRODUCTION/Pulte Homes",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY",
+      "level": "builder"
+    },
+    "Pulte|Linmar.Ranch": {
+      "path": "PRODUCTION/Pulte Homes",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY",
+      "level": "builder"
+    },
+    "Pulte|Monument@Reverence": {
+      "path": "PRODUCTION/Pulte Homes",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY",
+      "level": "builder"
+    },
+    "Pulte|Paldona@Russell": {
+      "path": "PRODUCTION/Pulte Homes",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY",
+      "level": "builder"
+    },
+    "Pulte|Paldona@WarmSprings": {
+      "path": "PRODUCTION/Pulte Homes",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY",
+      "level": "builder"
+    },
+    "Pulte|RC.Estates": {
+      "path": "PRODUCTION/Pulte Homes",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY",
+      "level": "builder"
+    },
+    "Pulte|Southbrooks": {
+      "path": "PRODUCTION/Pulte Homes",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY",
+      "level": "builder"
+    },
+    "Pulte|Talvona": {
+      "path": "PRODUCTION/Pulte Homes",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY",
+      "level": "builder"
+    },
+    "Pulte|Valridge": {
+      "path": "PRODUCTION/Pulte Homes",
+      "url": "https://alphalandscapeslv-my.sharepoint.com/:f:/p/alejandroe/IgCiTOxISgXaSJ_Lm6yM1Bp4AUNeDjDCeAOs2mjmGcP08LY",
+      "level": "builder"
     }
   }
 }
