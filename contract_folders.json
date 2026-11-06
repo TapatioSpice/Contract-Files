@@ -657,6 +657,12 @@
   },
   "Century Communities|Edgeview Estates - Concrete": {
    "path": "CONCRETE/Century Communities/Edgeview Estates"
+  },
+  "Richmond|Shalestone (40' 2s/1s)": {
+   "path": "PRODUCTION/Richmond Homes/Shalestone"
+  },
+  "Richmond|Ember at Aries": {
+   "path": "PRODUCTION/Richmond Homes/Ember at Aries"
   }
  }
 }
